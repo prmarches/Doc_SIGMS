@@ -1,0 +1,136 @@
+
+    CNLCOD CNLDES                         CNLSIG                                   IC_SITUACAO_CANAL IC_ADESAO_CANAL
+---------- ------------------------------ ---------------------------------------- ----------------- ---------------
+      9781 SICCP CHEQUE COMPENSADO        SICCP                                                    0               0
+      9677 SINAU DESBLOQUEIO DE TALAO     SINAU                                                    0               0
+      1001 SISTEMA DE CREDITO ROTATIVO    SILCR                                                    0               0
+      2139 Teste                          Siga12                                                   1               0
+      1003 LIM CHEQUE ESPECIAL            SIDEC                                                    0               0
+      7200 SICLON - SEGURANCA             SOCLON                                                   0               0
+      1004 SIDMF                          SIDMF                                                    0               0
+      1800 CARTAO VIRTUAL CIDADAO         SICVC                                                    0               0
+      9895 SISTEMA DE GESTAO E SEGURANCA  SIGCN                                                    0               0
+      1007 SID05                          SID05                                                    0               0
+      9896 SISTEMA INTEGRADO DE SEGURANCA SISGR                                                    0               0
+
+    CNLCOD CNLDES                         CNLSIG                                   IC_SITUACAO_CANAL IC_ADESAO_CANAL
+---------- ------------------------------ ---------------------------------------- ----------------- ---------------
+      9977 Teste 2 API envio              testeenvioAPI2                                           0               0
+      9632 SICOV DEB AUTOMATICO           SICOV                                                    0               0
+      9630 SIACC DEB AUTOMATICO           SIACC                                                    0               0
+      3000 WHATS CAIXA                    WHATS-CAIXA                                              0               1
+      5544 TesteEnvioAPIhomologacao       Homologa                                                 0               0
+      9786 SISTEMA PAGAMENTO INSTANTANEO  SISPI                                                    0               0
+      9801 Sistema DPVAT Caixa            SISDC                                                    0               0
+      1111 dfgassdf                       teste 3                                                  1               1
+      9624 SISTEMA DE TRANSF COMERCIAL    SITRC                                                    0               0
+      9988 Teste de envio API             testeenvioAPI                                            0               0
+       202 teste 1                        testecanal                                               1               0
+
+    CNLCOD CNLDES                         CNLSIG                                   IC_SITUACAO_CANAL IC_ADESAO_CANAL
+---------- ------------------------------ ---------------------------------------- ----------------- ---------------
+      3590 RELACIONAMENTO CLIENTE         SICRM                                                    0               0
+      8998 SID52 CPF IRREGULAR            SID52                                                    0               0
+      9889 CartaoCred Seguranca-SIPDC     SIPDC                                                    0               0
+      1234 Teste Jboss                    TESTE12                                                  1               0
+       204 Teste Manual                   MFBL                                                     1               0
+      9748 AUTO ATENDIMENTO INOVADOR      SIMAI                                                    0               1
+      3278 SAC, OUVIDORIA E VIVA VOZ'     SISOU                                                    0               0
+      9690 SIMEX                          SIMEX                                                    0               0
+      1000 SIACM SQUAD CARTOES            SIACM                                                    0               0
+      9785 NOVO PORTAL NEGOCIOS.CAIXA     SIPNC                                                    0               1
+      1006 SISET                          SISET                                                    0               0
+
+    CNLCOD CNLDES                         CNLSIG                                   IC_SITUACAO_CANAL IC_ADESAO_CANAL
+---------- ------------------------------ ---------------------------------------- ----------------- ---------------
+      9400 SIST MODER TRAT USO DE IMAGENS SIMTR                                                    0               0
+      9699 SIAMF                          SIAMF                                                    0               0
+      9601 HOME-BANKING                   HOME-BANKING                                             0               0
+      9603 OFFICCE                        OFFICCE                                                  0               0
+      9604 SRA                            SRA                                                      1               0
+      9607 GOVBANKING                     GOVBANKING                                               0               0
+      9608 SALDO CELULAR                  SALDO CELULAR                                            0               0
+      9609 POCKET                         POCKET                                                   0               0
+      9610 CXAQUI                         CAIXA AQUI                                               0               0
+      9614 GOVBANKING WEB                 GOVBANKING WEB                                           0               0
+      9615 CONTACT CENTER (EASYPHONE)     CONTACT CENTER (EASYPHONE)                               0               0
+
+    CNLCOD CNLDES                         CNLSIG                                   IC_SITUACAO_CANAL IC_ADESAO_CANAL
+---------- ------------------------------ ---------------------------------------- ----------------- ---------------
+      9617 POPBANCO                       POPBANCO                                                 0               0
+      9618 E-CONTAS                       E-CONTAS                                                 0               0
+      9622 GPS ELETRONICA                 GPS ELETRONICA                                           0               0
+      9636 GOVCAIXA - ASSINATURA MULTIPLA GOVCAIXA - ASSINATURA MULTIPLA                           0               0
+      9662 CAIXA RAPIDO EMPRESARIAL       CAIXA RAPIDO EMPRESARIAL                                 0               0
+      9005 BANCO24H                       BANCO 24 HORAS                                           0               0
+      9000 AUTO-ATENDIMENTO               AUTO-ATENDIMENTO                                         0               0
+      9100 AUTO-ATENDIMENTO               AUTO-ATENDIMENTO                                         0               0
+      9500 LOTERICA                       LOTERICA                                                 0               0
+      9501 AUTO-ATENDIMENTO               AUTO-ATENDIMENTO                                         0               0
+      9600 URA                            URA                                                      0               0
+
+    CNLCOD CNLDES                         CNLSIG                                   IC_SITUACAO_CANAL IC_ADESAO_CANAL
+---------- ------------------------------ ---------------------------------------- ----------------- ---------------
+      9605 AGENCIA                        AGENCIA                                                  0               0
+      9613 CELULAR                        CELULAR                                                  0               0
+      9626 MAESTRO                        MAESTRO                                                  0               0
+      9675 BANCOS INTEGRADOS              BANCOS INTEGRADOS                                        0               0
+      9692 CELULAR                        CELULAR                                                  0               0
+      9611 LINHA AZUL                     LINHA AZUL                                               0               0
+      9725 SINAC                          SINAC                                                    0               0
+      9712 SIB24                          SIB24                                                    0               0
+      9679 CIELO                          CIELO                                                    0               0
+      9728 VISA                           VISA                                                     0               0
+      9731 ELO                            ELO                                                      0               0
+
+    CNLCOD CNLDES                         CNLSIG                                   IC_SITUACAO_CANAL IC_ADESAO_CANAL
+---------- ------------------------------ ---------------------------------------- ----------------- ---------------
+      9704 SISAG                          SISAG                                                    0               1
+      9737 SIPAS                          SIPAS                                                    0               0
+      9664 SISPG (DESATIVADO)             SISPG (DESATIVADO)                                       0               0
+      9616 INTRANET                       INTRANET                                                 0               0
+      9735 SMS-SEGURANÇA                  SIMBC                                                    0               0
+      9738 SIDMO                          SIDMO                                                    0               0
+         0 INTRANET                       SIGMS                                                    0               1
+      9602 IBC                            SIIBC                                                    0               1
+      9619 SIGAT                          SIGAT                                                    0               1
+      9705 ATM                            SIMAA                                                    0               1
+      9660 LOTERICA                       SISPL                                                    0               1
+
+    CNLCOD CNLDES                         CNLSIG                                   IC_SITUACAO_CANAL IC_ADESAO_CANAL
+---------- ------------------------------ ---------------------------------------- ----------------- ---------------
+      9723 FGTS                           SISFG                                                    0               1
+      8121 SIPEN2                         SIPEN                                                    0               0
+      9683 SIGCB                          SIGCB                                                    0               0
+      9694 NEGOCIOS.CAIXA                 SIPAN                                                    0               1
+      9730 CARTAO DE CREDITO              SICPS                                                    0               1
+      9695 SIPER                          SIPER                                                    0               0
+      9780 SIOCR                          SIOCR                                                    0               0
+      9881 SINEB                          SINEB                                                    0               0
+      9740 ELO                            ELO                                                      0               0
+      9734 SIOPI                          SIOPI                                                    0               0
+      9746 SIAVL                          SIAVL                                                    0               0
+
+    CNLCOD CNLDES                         CNLSIG                                   IC_SITUACAO_CANAL IC_ADESAO_CANAL
+---------- ------------------------------ ---------------------------------------- ----------------- ---------------
+      9884 SIMIC                          SIMIC                                                    0               0
+      9999 Canal de teste 9999 2          SITES2                                                   1               0
+      9678 SID00 PAG-DEV-TALAO CHEQUE     SID00                                                    0               0
+      9742 ATM                            SIMAA - MULTI APLICACAO                                  0               1
+      9894 APP CAIXA TEM                  SICTM                                                    0               0
+      9732 SISTEMA DE CARTOES DE CREDITO  SICAC                                                    0               1
+      1008 SIST NEGOCIOS AGEIS DIGITAIS   SINDA                                                    0               0
+      1389 teste Homo                     teste51                                                  0               0
+      9800 BARRAMENTO EMPRESARIAL         SIBAR                                                    0               0
+      9892 LIM CHEQUE ESPECIAL            SID01                                                    0               0
+      9890 SEGURANCA                      ARAF-  CESEG / CECAC                                     0               0
+
+    CNLCOD CNLDES                         CNLSIG                                   IC_SITUACAO_CANAL IC_ADESAO_CANAL
+---------- ------------------------------ ---------------------------------------- ----------------- ---------------
+      9887 SIDON                          SIDON                                                    0               0
+      2000 GEREM                          GEREM                                                    0               1
+      9885 CAIXA+                         SINBM                                                    0               1
+      9891 APP NOVO BANCO MOVEL           SINBM                                                    1               0
+
+103 linhas selecionadas. 
+
