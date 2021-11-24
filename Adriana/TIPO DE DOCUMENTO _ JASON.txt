@@ -1,0 +1,11 @@
+TIPO DE DOCUMENTO:
+1 CPF
+2 CNPJ
+3 NIS
+4 eCarteira
+5 Contrato SIOPI
+6 Contrato SIACI
+7 Conta SIDEC
+8 Conta NSGD
+9 Contrato CHPRAS
+
